@@ -1,0 +1,22 @@
+nav{
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+body{background-color: rgb(91, 94, 91) 
+}
+
+p{
+    color: red;
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+#memeImage{ 
+    margin-right: 200px;
+}
